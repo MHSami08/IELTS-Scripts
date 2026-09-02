@@ -25,7 +25,6 @@ First, you have some time to look at questions 1 to 5.
 
 Now listen carefully and answer questions 1 to 5.
 
-
 Before you hear the rest of the talk, you have some time to look at questions 6 to 10.
 
 Now answer questions 6 to10.
@@ -39,7 +38,6 @@ First, you have some time to look at questions 11 to 15.
 
 Now listen carefully and answer questions 11 to 15.
 
-
 Before you hear the rest of the talk, you have some time to look at questions 16 to 20.
 
 Now answer questions 16 to 20.
@@ -52,7 +50,6 @@ First, you have some time to look at questions 21 to 26.
 
 Now listen carefully and answer questions 21 to 26.
 
-
 Before you hear the rest of the talk, you have some time to look at questions 27 to 30.
 
 Now answer questions 27 to 30.
@@ -64,7 +61,6 @@ You will hear a lecture on urban beekeeping.
 First, you have some time to look at questions 31 to 35.
 
 Now listen carefully and answer questions 31 to 35.
-
 
 Before you hear the rest of the talk, you have some time to look at questions 36 to 40.
 
