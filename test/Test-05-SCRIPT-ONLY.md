@@ -36,6 +36,10 @@ Patient: I injured it playing basketball. I was told it's a meniscus problem.
 Receptionist: OK. Could you manage a session this Thursday at half past two?
 
 Patient: That sounds great, thanks.
+
+[pause: 1s]
+
+
 ```
 
 ---
@@ -47,6 +51,7 @@ _Now you have 30 seconds to read Questions 6–10._
 ### Script: Part 1 (Questions 6–10)
 
 ```
+
 Receptionist: Now let me talk you through the options and the fees. The initial assessment lasts 30 minutes and costs £45, and that covers the full report you'll take home.
 
 Patient: OK, that's clear.
