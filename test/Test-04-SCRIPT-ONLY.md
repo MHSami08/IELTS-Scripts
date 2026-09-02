@@ -34,6 +34,10 @@ Receptionist: Fine. And how did you hear about the college?
 Student: My sister took a pottery course here last term, and she raved about the place.
 
 Receptionist: Lovely.
+
+[pause: 1s]
+
+
 ```
 
 ---
@@ -45,6 +49,7 @@ _Now you have 30 seconds to read Questions 6–10._
 ### Script: Part 1 (Questions 6–10)
 
 ```
+
 Receptionist: Right, a few details about the course itself. The improvers' course runs for twelve weeks, and the full term fee is £160. If you book by the end of this week, there's an early-bird reduction, so it comes to £125.
 
 Student: That's brilliant — I'll book now, then.
