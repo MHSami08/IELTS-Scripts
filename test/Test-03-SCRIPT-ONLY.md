@@ -30,6 +30,10 @@ Clerk: Lovely. And anything we should know before you arrive?
 Guest: Could we have an early breakfast on the last day?
 
 Clerk: No problem. I'll tell the kitchen.
+
+[pause: 1s]
+
+
 ```
 
 ---
@@ -41,6 +45,7 @@ _Now you have 30 seconds to read Questions 6–10._
 ### Script: Part 1 (Questions 6–10)
 
 ```
+
 Clerk: Right, let me confirm the details. The barn conversion is free from the 15th to the 19th, so that's four nights.
 
 Guest: Yes, four nights.
