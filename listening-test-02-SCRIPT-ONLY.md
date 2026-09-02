@@ -162,6 +162,8 @@ Ben: Planner, done. We'll log every start time the same way.
 Aisha: Consistency throughout. That's the key for clean comparison.
 
 Dr Ito: Then you have your full design, and nothing in it requires specialist equipment, which should make recruiting much simpler.
+
+Merge the text of the person who is (Dr)  as "speaker 1" and from the students set the student who talk much/more dialouge as "speaker 2", and differently separate the other student text as "speaker 2"
 ```
 
 ---
