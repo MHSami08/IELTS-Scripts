@@ -35,6 +35,8 @@ Volunteer: Hmm. Actually, I'd rather work with the plants — planting, mainly. 
 
 Coordinator: Fair enough — planting it is.
 
+[pause: 1s]
+
 ```
 
 ---
@@ -46,6 +48,7 @@ _Now you have 30 seconds to read Questions 6–10._
 ### Script: Part 1 (Questions 6–10)
 
 ```
+
 Coordinator: Right, let me sort out your registration. We offer a standard membership, which is free, and a supporter level at £40 a year — most people start with standard and upgrade later.
 
 Volunteer: I'll go with standard for now.
