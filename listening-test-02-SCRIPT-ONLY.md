@@ -185,7 +185,6 @@ And Dr Raman presses the point that these early figures come from the countrysid
 
 [pause 2 seconds]
 
-
 ```
 
 ---
@@ -197,6 +196,7 @@ _Now you have 30 seconds to read Questions 36–40._
 ### Script: Part 4 (Questions 36–40)
 
 ```
+
 Turning now to the obstacles to a wider take-up. This brings us to regulation, because it is often the first barrier people meet. Professor Luis Montenegro, a policy specialist at the University of Corval, has compared planning regimes across several countries. He argued that cumbersome planning policies were slowing domestic take-up, with permission often delayed for months, and he warned that this delay eroded consumer confidence far more than the price itself.
 
 Dr Theo Anders has examined the technical side in detail, and here his emphasis falls on timing. In colder, cloudier regions he found that systems delivered their highest daily yield during the morning, when household demand peaks, rather than at noon as many buyers assume. This mismatch between generation and use is precisely why a battery matters: it stores the morning and daylight surplus for the evening. His work suggests that the economics are most favourable where the battery is oversized relative to the panels, contrary to the conventional advice. Equally important, his longitudinal records, compiled from more than four hundred installations across three regions, indicated that the financial case strengthened markedly wherever households were willing to shift heavy appliances such as washing machines and immersion heaters into the daylight hours, an adjustment that required no extra hardware at all.
