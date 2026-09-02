@@ -180,6 +180,10 @@ The danger is straightforward. If the dam gives way, the lake can release in a s
 Now, research into what triggers these events has moved quickly. Dr Irina Petrov, at a Norwegian glaciology institute, has run computer models across more than two hundred lakes in three different mountain ranges. She found that a summer rise of just two degrees makes an outburst more likely, because warmer air melts the ice that helps hold the loose dam material together. Her work also suggests that the danger grows as the summer season lengthens, since the meltwater keeps feeding the lake well into autumn.
 
 And there is a further seasonal dimension worth spelling out. Because every summer sends more meltwater down and because the nights above the snow line stay warm for longer, the level of these high-altitude lakes typically peaks later and later in the year. That matters for the timing of any response, since the lake is at its fullest precisely when the first heavy rains of autumn can arrive. Dr Petrov's group has argued for a simple rule of thumb: treat any lake whose summer level keeps rising as the one to watch closely, even if it has never caused trouble before. No amount of clever engineering, she adds, is a substitute for watching the water itself.
+
+[pause 2 seconds]
+
+
 ```
 
 ---
@@ -191,6 +195,7 @@ _Now you have 30 seconds to read Questions 36–40._
 ### Script: Part 4 (Questions 36–40)
 
 ```
+
 So what is being done about it? Professor Miguel Almeida's group has developed an early-warning system. The key instruments are buried at the base of the moraine, where water pressure builds up, and they can detect very small movements in the dam long before a breach. That buys warning times of days rather than hours, which makes a practical difference to the people downstream.
 
 Across the Carpathians and the Andes, monitoring now pairs remote imagery with ground-based sensors in the valley floor. But detection is only part of the answer. Some engineers have tried reinforcing the dams, and some have pumped water out using helicopters, but both are slow and costly. The approach gaining favour is simpler: engineers dig channels that let water drain steadily from the lake, keeping the level safely below the top of the dam. Done well, this can lower the water by the depth needed over a single season, and the channels are cheap to maintain.
