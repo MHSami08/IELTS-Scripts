@@ -44,39 +44,6 @@ _Now you have 30 seconds to read Questions 6–10._
 
 ---
 
-### Questions 6–10
-
-_Table Completion_
-
-_Complete the table below._
-
-_Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer._
-
-| **Session type**     | **Length**          | **Fee**    |
-| -------------------- | ------------------- | ---------- |
-| Initial assessment   | (6) \_\_\_\_ minutes | (7) £\_\_\_\_\_\_ |
-| Standard treatment   | (8) \_\_\_\_ minutes | £38        |
-| (9) \_\_\_\_-week course | 20 minutes       | £120       |
-| Home visit           | 45 minutes          | (10) £\_\_\_\_\_\_ |
-
----
-
-### Answer Key — Questions 6–10
-
-| Q  | Answer | Needle                                                              | Difficulty |
-|----|--------|---------------------------------------------------------------------|------------|
-| 6  | 30     | Receptionist: "The initial assessment lasts 30 minutes and costs £45"  | 🟢 Easy  |
-| 7  | 45     | Receptionist: "The initial assessment lasts 30 minutes and costs £45"  | 🟢 Easy  |
-| 8  | 40     | Receptionist: "standard treatment sessions are 40 minutes, at £38 a session." | 🟡 Medium |
-| 9  | four   | Receptionist: "we offer a four-week plan — four weekly 20-minute sessions — for £120" | 🟡 Medium |
-| 10 | 150    | Receptionist: "They run for 45 minutes and cost £150"               | 🟢 Easy    |
-
-**Trap Notes**
-
-- **Distractor:** The longer six-week course is mentioned in passing, but the four-week plan is the one quoted at £120 (Q9).
-
----
-
 ### Script: Part 1 (Questions 6–10)
 
 ```
