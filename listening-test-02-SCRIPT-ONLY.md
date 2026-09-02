@@ -182,6 +182,8 @@ Yet progress was slowed by one persistent obstacle. The upfront cost of a comple
 What is particularly noteworthy is a caveat she adds, drawing on work by the engineer Dr Theo Anders. These savings only materialised reliably where the household had steady monitoring of its consumption and generation; without that oversight, Dr Anders found, the predicted financial benefit frequently failed to appear.
 
 And Dr Raman presses the point that these early figures come from the countryside rather than the towns. Take-up was far stronger in villages and small market towns, where backup generators are rare and a single local transformer can cut power for a whole street. That imbalance is itself a puzzle for policy makers, because it suggests that the households most exposed to disruption, those packed tightly into city blocks, have stayed largely outside the market. She believes many of those urban families would follow the example readily enough if a shared financing scheme were offered at street level, rather than only to individual properties with generous space for the equipment.
+
+[pause 2 seconds]
 ```
 
 ---
