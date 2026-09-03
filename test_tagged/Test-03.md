@@ -55,47 +55,36 @@ Speaker 2: [excited] Perfect. Thank you so much.
 
 ```
 
-Good morning, everyone, and welcome to Greenacre Farm. I'm Lena, and I'll be showing you round this morning. So, um, let me start with a little of the history.
+[excited] Good morning, everyone, and welcome to Greenacre Farm. [normal] I'm Lena, and I'll be showing you round this morning. [thoughtful] So, um, let me start with a little of the history.
 
-The main farmhouse dates from the early 1600s, though it has been added to many times since. The big timber barn beside it was rebuilt in the 1800s, and the barn conversion, where some of you are staying, opened in 2001. So there is a good spread of ages across the farm.
+[normal] The main farmhouse dates from the early 1600s, [thoughtful] though it has been added to many times since. [normal] The big timber barn beside it was rebuilt in the 1800s, [confident] and the barn conversion, where some of you are staying, opened in 2001. [excited] So there is a good spread of ages across the farm.
 
-Right, let me explain what we grow here. The orchard is our pride and joy. We grow two varieties of cider apple — one sweet, one sharp — and we press them into juice in the autumn. They are not really dessert apples, so we don't sell them for eating fresh. We also run a vegetable enterprise in the plots along the track, but that is a separate part of the business.
+[confident] Right, let me explain what we grow here. [excited] The orchard is our pride and joy. [normal] We grow two varieties of cider apple — [thoughtful] one sweet, one sharp — [confident] and we press them into juice in the autumn. [normal] They are not really dessert apples, so we don't sell them for eating fresh. [thoughtful] We also run a vegetable enterprise in the plots along the track, [normal] but that is a separate part of the business.
 
-Now, you may have spotted the two small ponds down by the lower meadow. People often assume they store water for irrigation, and one visitor asked whether guests can swim in them — do give them a very wide berth, they are far too muddy. They were dug at the request of a local bird charity, to encourage wild birds to nest, and they have worked very well.
+[normal] Now, you may have spotted the two small ponds down by the lower meadow. [thoughtful] People often assume they store water for irrigation, [normal] and one visitor asked whether guests can swim in them — [confident] do give them a very wide berth, they are far too muddy. [excited] They were dug at the request of a local bird charity, to encourage wild birds to nest, [confident] and they have worked very well.
 
-For a stretch of the legs, there is a woodland walk up through the trees. It is not the twenty-minute stroll some guests guess at first, and it is not the long two-hour meander through the lower woods either. The trail takes about an hour to walk, and it loops back near the henhouse.
+[normal] For a stretch of the legs, [confident] there is a woodland walk up through the trees. [thoughtful] It is not the twenty-minute stroll some guests guess at first, [normal] and it is not the long two-hour meander through the lower woods either. [confident] The trail takes about an hour to walk, [normal] and it loops back near the henhouse.
 
-If you have children with you, the henhouse is usually the highlight of their visit. We keep a small flock of hens, and the youngsters love gathering the eggs from the henhouse each afternoon. We feed the goats only at closing time, I'm afraid, and we don't keep ponies on the farm at all.
-```
----
+[excited] If you have children with you, the henhouse is usually the highlight of their visit. [normal] We keep a small flock of hens, [excited] and the youngsters love gathering the eggs from the henhouse each afternoon. [thoughtful] We feed the goats only at closing time, I'm afraid, [normal] and we don't keep ponies on the farm at all.
 
-_Now you have 30 seconds to read Questions 16–20._
+[confident] Right, let me point out the main features on your map, [normal] so you can find your way around.
 
----
+[normal] The henhouse is just north of the barn conversion, [thoughtful] tucked against the hedge. [excited] That's where the children go for the egg-gathering in the afternoon.
 
-### Script: Part 2 (Questions 16–20)
+[normal] The vegetable plots sit beside the main track to the road, [confident] on the left as you come in. [normal] Help yourself at the honesty stall, [confident] and please leave payment in the box.
 
-```
-Right, let me point out the main features on your map, so you can find your way around.
+[normal] If you follow the path through the orchard, [thoughtful] you'll come to a wooden gate — [confident] and the cider press sits just past the wooden gate, [excited] so you can watch the pressing when it runs in the autumn.
 
-The henhouse is just north of the barn conversion, tucked against the hedge. That's where the children go for the egg-gathering in the afternoon.
+[normal] Down beyond the lower meadow are the two small ponds, [excited] which are a lovely spot for watching birds at dusk.
 
-The vegetable plots sit beside the main track to the road, on the left as you come in. Help yourself at the honesty stall, and please leave payment in the box.
+[normal] And the main farmhouse, [confident] where the shop is, [normal] sits behind the henhouse, [thoughtful] across the yard.
 
-If you follow the path through the orchard, you'll come to a wooden gate — and the cider press sits just past the wooden gate, so you can watch the pressing when it runs in the autumn.
-
-Down beyond the lower meadow are the two small ponds, which are a lovely spot for watching birds at dusk.
-
-And the main farmhouse, where the shop is, sits behind the henhouse, across the yard.
-
-Right, I think that's everything. Enjoy your wander, and do come along for the cider-tasting at the manor this afternoon.
+[confident] Right, I think that's everything. [excited] Enjoy your wander, [confident] and do come along for the cider-tasting at the manor this afternoon.
 ```
 
 ---
 
-## LISTENING PART 3
-
-### Script: Part 3 (Questions 21–24)
+## LISTENING PART 3 (Merged)
 
 ```
 Dr Osei: Right, Mina and Ravi — have you pinned down the questions for the transport survey yet?
@@ -119,13 +108,7 @@ Ravi: And we agreed to count passengers on three routes as well, to give us hard
 Mina: Yes, online form and passenger count. That's the plan.
 ```
 
----
-
-_Now you have 30 seconds to read Questions 25–30._
-
----
-
-### Script: Part 3 (Questions 25–30)
+## LISTENING PART 3 (Single)
 
 ```
 Dr Osei: That's a sound pair, though I'd flag two things. Counting during the day and in the early evening, you may be missing the evening journeys, when a lot of students come home late. So try to add some late shifts.
@@ -157,8 +140,6 @@ Dr Osei: Then you have a solid basis for the methods section, and I look forward
 
 ## LISTENING PART 4
 
-### Script: Part 4 (Questions 31–35)
-
 ```
 Good morning. Today I want to talk about glacial lakes — the bodies of water that form high in mountain valleys as glaciers shrink — and about why hydrologists now treat them as a serious hazard. I'll do three things: first, how these lakes form; second, what makes them dangerous; and third, what can be done about them.
 
@@ -171,19 +152,6 @@ Now, research into what triggers these events has moved quickly. Dr Irina Petrov
 And there is a further seasonal dimension worth spelling out. Because every summer sends more meltwater down and because the nights above the snow line stay warm for longer, the level of these high-altitude lakes typically peaks later and later in the year. That matters for the timing of any response, since the lake is at its fullest precisely when the first heavy rains of autumn can arrive. Dr Petrov's group has argued for a simple rule of thumb: treat any lake whose summer level keeps rising as the one to watch closely, even if it has never caused trouble before. No amount of clever engineering, she adds, is a substitute for watching the water itself.
 
 [pause 2 seconds]
-
-
-```
-
----
-
-_Now you have 30 seconds to read Questions 36–40._
-
----
-
-### Script: Part 4 (Questions 36–40)
-
-```
 
 So what is being done about it? Professor Miguel Almeida's group has developed an early-warning system. The key instruments are buried at the base of the moraine, where water pressure builds up, and they can detect very small movements in the dam long before a breach. That buys warning times of days rather than hours, which makes a practical difference to the people downstream.
 
