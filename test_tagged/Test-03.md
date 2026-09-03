@@ -53,9 +53,8 @@ Speaker 2: [excited] Perfect. Thank you so much.
 
 ## LISTENING PART 2
 
-### Script: Part 2 (Questions 11–15)
-
 ```
+
 Good morning, everyone, and welcome to Greenacre Farm. I'm Lena, and I'll be showing you round this morning. So, um, let me start with a little of the history.
 
 The main farmhouse dates from the early 1600s, though it has been added to many times since. The big timber barn beside it was rebuilt in the 1800s, and the barn conversion, where some of you are staying, opened in 2001. So there is a good spread of ages across the farm.
@@ -68,7 +67,6 @@ For a stretch of the legs, there is a woodland walk up through the trees. It is 
 
 If you have children with you, the henhouse is usually the highlight of their visit. We keep a small flock of hens, and the youngsters love gathering the eggs from the henhouse each afternoon. We feed the goats only at closing time, I'm afraid, and we don't keep ponies on the farm at all.
 ```
-
 ---
 
 _Now you have 30 seconds to read Questions 16–20._
