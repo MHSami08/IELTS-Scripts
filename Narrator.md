@@ -18,7 +18,7 @@ The test is in four sections.
 Now turn to Section 1.
 
 Section 1.
-You will hear a conversation between a receptionist and a new member joining Harbour Sports Centre.
+[Your Topic]
 
 First, you have some time to look at questions 1 to 5.
 
@@ -31,7 +31,7 @@ Now answer questions 6 to10.
 You now have half a minute to check your answers.
 
 Section 2.
-You will hear a guide giving a welcome talk to a group of new members at Harbour Sports Centre.
+[Your Topic]
 
 First, you have some time to look at questions 11 to 15.
 
@@ -44,7 +44,8 @@ Now answer questions 16 to 20.
 You now have half a minute to check your answers.
 
 Section 3.
-You will hear three people — students Amara and Jonas, and their tutor Dr Otieno — discussing a research project on student coffee and energy habits.
+[Your Topic]
+
 First, you have some time to look at questions 21 to 26.
 
 Now listen carefully and answer questions 21 to 26.
@@ -56,7 +57,8 @@ Now answer questions 27 to 30.
 You now have half a minute to check your answers.
 
 Section 4.
-You will hear a lecture on urban beekeeping.
+[Your Topic]
+
 First, you have some time to look at questions 31 to 35.
 
 Now listen carefully and answer questions 31 to 35.
