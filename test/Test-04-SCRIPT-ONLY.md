@@ -167,6 +167,10 @@ Dr Naylor: Yes, we should report that honestly. Dr Elise Fontaine, meanwhile, fo
 Leila: And Dr Marco Voss warned that sounding out new words slows fluent reading, so the advice has to be balanced.
 
 Sam: That's a strong set — support and a caution together.
+
+[pause 2 seconds]
+
+
 ```
 
 ---
@@ -176,6 +180,7 @@ Sam: That's a strong set — support and a caution together.
 ### Script: Part 4 (Questions 31–36)
 
 ```
+
 Good morning, everyone. Today's lecture concerns the life beneath our feet, and the difference that tiny organisms in the soil may make to the way we farm. It is a subject in which biology, crop science and practical land management meet, and one that, arguably, has attracted growing attention from researchers in recent years, because the evidence now points in a direction that few anticipated. I want to do three things this morning: first, describe what these organisms typically do; second, look at three researchers whose work suggests how farming choices may shape the underground community; and finally, consider what growers might, in principle, take from their findings.
 
 So, to begin with, some sense of scale. The organisms living in the ground are astonishingly abundant, although they account for only a sliver of the soil's total mass. One gram of fertile soil can hold more than a billion of them, packed into every crumb. What is particularly noteworthy is that their numbers are not the whole story: they drive the system. They continually recycle the nutrients that plants require, and in doing so they help build soil structure, the network of aggregates that lets air and water move through the ground. Indeed, remove them, and that structure slowly collapses, which is why the preservation of this community may ultimately matter more than its sheer size.
